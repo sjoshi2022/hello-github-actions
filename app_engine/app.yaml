@@ -1,0 +1,6 @@
+# AppEngine config file
+runtime: nodejs10
+service: agero-chatbot-github-dev 
+
+includes:
+- .env
